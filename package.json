@@ -20,12 +20,12 @@
   },
   "homepage": "https://github.com/MehfoozurRehman/graphql-api-portfolio#readme",
   "dependencies": {
-    "apollo-server-express": "^3.11.1",
-    "express": "^4.18.2",
-    "graphql": "^16.6.0",
-    "mongoose": "^6.8.4"
+    "apollo-server-express": "^3.13.0",
+    "express": "^4.21.2",
+    "graphql": "^16.12.0",
+    "mongoose": "^6.13.8"
   },
   "devDependencies": {
-    "nodemon": "^2.0.20"
+    "nodemon": "^2.0.22"
   }
 }
