@@ -21,7 +21,7 @@
   "homepage": "https://github.com/MehfoozurRehman/graphql-api-portfolio#readme",
   "dependencies": {
     "apollo-server-express": "^3.13.0",
-    "express": "^4.21.2",
+    "express": "^4.22.1",
     "graphql": "^16.12.0",
     "mongoose": "^6.13.8"
   },
