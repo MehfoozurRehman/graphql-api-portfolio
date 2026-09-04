@@ -1,0 +1,2 @@
+allowBuilds:
+  '@apollo/protobufjs': set this to true or false
